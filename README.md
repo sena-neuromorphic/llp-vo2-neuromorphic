@@ -18,3 +18,16 @@ The results demonstrate that LLP-based hysteresis can be simulated efficiently w
 ## Notes
 
 The code was originally developed and tested in a Google Colab environment. Running it in Colab is recommended for faster and smoother execution.
+
+## Main Scripts
+
+The following scripts reproduce the results presented in the paper:
+
+- `Fig2and3_main_article.ipynb`  
+  Reproduces Figures 2 and 3 from the main article, as well as Figures 1 and 2 from the Supplementary Information.
+
+- `figure_4_triangular_excitation_main_article.ipynb`  
+  Reproduces Figure 4 from the main article (damped triangular excitation). Additional figures are also generated but are not included in the manuscript.
+
+- `figure_5_forc_main_article.ipynb`  
+  Reproduces Figure 5 from the main article, including the FORC protocol and the corresponding hysteretic response.
