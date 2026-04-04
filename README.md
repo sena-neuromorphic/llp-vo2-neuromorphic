@@ -31,3 +31,9 @@ The following scripts reproduce the results presented in the paper:
 
 - `figure_5_forc_main_article.ipynb`  
   Reproduces Figure 5 from the main article, including the FORC protocol and the corresponding hysteretic response.
+
+  ## Requirements
+
+The code was developed and tested in a Google Colab environment.
+
+All required dependencies are listed in the `requirements.txt` file. These packages are available by default in Google Colab, enabling straightforward and reproducible execution.
