@@ -19,6 +19,7 @@ The results demonstrate that LLP-based hysteresis can be simulated efficiently w
 
 The code was originally developed and tested in a Google Colab environment. Running it in Colab is recommended for faster and smoother execution.
 
+
 ## Main Scripts
 
 The following scripts reproduce the results presented in the paper:
@@ -40,6 +41,9 @@ The following scripts reproduce the results presented in the paper:
 
   All provided scripts can be used to model VO$_2$ films using the explicit electrothermal LLP formulation. For questions, please contact the authors. If you use this code, please cite the associated publication.
   If you use the LLP model to study other metal–insulator transition materials, feel free to share your results with us — we would be happy to hear about your work.
+
+MIT License
+Copyright (c) 2026 Bruno A. S. F. Sena and Luiz A. L. de Almeida
 
   ## Requirements
 
