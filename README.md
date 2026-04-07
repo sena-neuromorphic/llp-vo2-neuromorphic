@@ -32,11 +32,11 @@ The following scripts reproduce the results presented in the paper:
 - `figure_5_forc_main_article.py`  
   Reproduces Figure 5 from the main article, including the FORC protocol and the corresponding hysteretic response.
 
-- 'Figure6_LLP_Experimental.py'
+- `Figure6_LLP_Experimental.py`
    Reproduces Figure 6 from the main article.
-   If you are using Google Colab, make sure to upload the file Experimental_Data_VO2.xlsx to the working directory before running the scripts.
-   The file 'Experimental_Data_VO2.xlsx' contains the experimental data and is only required for the script Figure6_LLP_Experimental.py.
-  
+   If you are using Google Colab, make sure to upload the file `Experimental_Data_VO2.xlsx` to the working directory before running the scripts.
+   The file `Experimental_Data_VO2.xlsx` contains the experimental data and is only required for the script `Figure6_LLP_Experimental.py`.
+  The file `Chapter2_2003.pdf` contains a detailed description of the experimental platform, including the setup and data acquisition procedures used to obtain the experimental data.
 
   All provided scripts can be used to model VO$_2$ films using the explicit electrothermal LLP formulation. For questions, please contact the authors. If you use this code, please cite the associated publication.
   If you use the LLP model to study other metal–insulator transition materials, feel free to share your results with us — we would be happy to hear about your work.
